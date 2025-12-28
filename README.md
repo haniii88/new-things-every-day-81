@@ -1,4 +1,4 @@
-/* New Things Every Day — Day 81 */
+/* New Things Every Day — Da 81 */
 /* Generates a daily activity log with a unique value */
 
 function dailyLog81() {
